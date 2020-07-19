@@ -1,6 +1,9 @@
 package algs;
 //import algs.sort.QuickSort;
 
+import java.lang.reflect.Array;
+import java.util.ArrayList;
+
 import algs.collection.MaxPQ;
 import algs.collection.Queue;
 import algs.collection.ResizingArrayQueue;
@@ -65,7 +68,7 @@ public class App
         //MaxPQ.main(args);
         //CubeSum.main(args);
         //Queens.main(args);
-        //RunningTest.main(args);
-        BagProblem.main(args);
+        RunningTest.main(args);
+        //BagProblem.main(args);
     }
 }
